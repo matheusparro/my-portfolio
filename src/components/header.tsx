@@ -49,8 +49,8 @@ export function Header(): JSX.Element {
         >
           <img
             style={{
-              width: '80%',
-              height: '85%',
+              width: '20rem',
+              height: '20rem',
               borderRadius: '50%',
               border: '2px solid #d203c2',
             }}

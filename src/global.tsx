@@ -27,6 +27,7 @@ const GlobalStyle = createGlobalStyle`
   button, .checkmark {
     cursor: pointer;
   }
+  
 `;
 
 export default GlobalStyle;

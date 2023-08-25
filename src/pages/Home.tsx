@@ -24,31 +24,11 @@ export function Home(): JSX.Element {
               gap: '30px',
             }}
           >
-            {/*<div*/}
-            {/*  style={{*/}
-            {/*    backgroundColor: 'white',*/}
-            {/*    width: '100%',*/}
-            {/*    borderRadius: '30px 30px',*/}
-            {/*  }}*/}
-            {/*>*/}
-            {/*  <div*/}
-            {/*    style={{*/}
-            {/*      width: '60%',*/}
-            {/*      backgroundColor: '#d203c2',*/}
-            {/*      borderRadius: '30px 30px',*/}
-            {/*    }}*/}
-            {/*  >*/}
-            {/*    <img*/}
-            {/*      style={{ width: '40px', height: '40px' }}*/}
-            {/*      src="/java.png"*/}
-            {/*      alt="javaIcon"*/}
-            {/*    />*/}
-            {/*  </div>*/}
-            {/*</div>*/}
             <Experience image={'/java.png'} text={'2+'} size={'50%'} />
             <Experience image={'/js.png'} text={'3+'} size={'75%'} />
             <Experience image={'/logo192.png'} text={'1+'} size={'25%'} />
             <Experience image={'/ts.png'} text={'2+'} size={'50%'} />
+            <Experience image={'/node.png'} text={'3+'} size={'75%'} />
           </div>
           <div></div>
         </div>
@@ -91,7 +71,7 @@ export function Home(): JSX.Element {
                   justifyContent: 'flex-end',
                 }}
               >
-                <h6>2018 - 2022</h6>
+                <h6>2023</h6>
               </div>
 
               <h3>Architectures for distributed systems - Puc Minas</h3>
