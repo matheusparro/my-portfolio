@@ -52,7 +52,7 @@ export function Header(): JSX.Element {
               width: '20rem',
               height: '20rem',
               borderRadius: '50%',
-              border: '2px solid #d203c2',
+              border: '2px solid #1b8f31',
             }}
             src="/logo.jpg"
           ></img>
@@ -73,7 +73,7 @@ export function Header(): JSX.Element {
               }}
             >
               <h1>Hi,</h1>
-              <h1 style={{ color: '#d203c2' }}> i´m Matheus Parro! 👋</h1>
+              <h1 style={{ color: '#1b8f31' }}> i´m Matheus Parro! 👋</h1>
             </div>
             <div
               style={{

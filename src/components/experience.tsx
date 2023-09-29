@@ -19,7 +19,7 @@ export function Experience(props: ExperienceProps): JSX.Element {
       <div
         style={{
           width: props.size,
-          backgroundColor: '#811c76',
+          backgroundColor: '#1b8f31',
           borderRadius: '30px 30px',
           height: '40px',
           display: 'flex',
